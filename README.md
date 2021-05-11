@@ -2,7 +2,7 @@
 
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-I am a software engineer creating customer focused software both on servers and in the ☁️
+Working non-stop at being the best Software Engineer and husband possible. Building customer focused software both locally and in the ☁️
 
 - 🔭 I’m currently working on finishing up multiple personal projects utilizing C#, HTML, and CSS with an MVC framework. As well as continue in diversifying my portfolio with knowledge and certifications.
 - 🌱 I’m currently learning python to continue feeding my desire to learn and pursue my hobbies with artificial intelligence and automation
@@ -15,5 +15,4 @@ I am a software engineer creating customer focused software both on servers and 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&show_icons=true&hide_border=true&theme=radical">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
 
