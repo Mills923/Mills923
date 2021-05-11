@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Mills923)
-My example:
-<img src=”https://komarev.com/ghpvc/?username=Mills923" alt=”tMills923” />
+![Devangi's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical")
+
+<!--
+<a href="https://github.com/devangi2000/mnist-flask">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
+</a> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+
 
 <!--
 **Mills923/Mills923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
