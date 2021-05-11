@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![David's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=Mills923&show_icons=true&hide_border=true&theme=radical")
 
 <!--
 <a href="https://github.com/devangi2000/mnist-flask">
