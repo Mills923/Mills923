@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=Mills923)
 My example:
-<img src=”https://komarev.com/ghpvc/?username=tomkax" alt=”tomkaX” />
+<img src=”https://komarev.com/ghpvc/?username=Mills923" alt=”tMills923” />
 
 <!--
 **Mills923/Mills923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
