@@ -1,24 +1,15 @@
 ### Hi there 👋
 
-
-<!--
-<a href="https://github.com/devangi2000/mnist-flask">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mills923&repo=mnist-flask" />
-</a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
-<!--
-**Mills923/Mills923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: david.mills2@outlook.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+
