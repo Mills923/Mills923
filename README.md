@@ -12,7 +12,7 @@ I am a software engineer creating customer focused software both on servers and 
 <a href="https://www.linkedin.com/in/sai-sumanth-talluri-3b7811141"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923i&show_icons=true&hide_border=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
