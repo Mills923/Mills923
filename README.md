@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![Devangi's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical")
+![David's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=Mills923&show_icons=true&hide_border=true&theme=radical")
 
 <!--
 <a href="https://github.com/devangi2000/mnist-flask">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Mills923&repo=mnist-flask" />
 </a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mills923&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
 
 
 <!--
