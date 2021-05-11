@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning python to continue feeding my desire to learn and pursue my hobbies with artificial intelligence and automation
 - 🤔 I’m looking for help with anything! If you have any suggestions or tips and tricks please let me know! There is no such thing as too much knowledge!
 
-- 📫 How to reach me: david.mills2@outlook.com
+- 📫 How to reach me: 
+- david.mills2@outlook.com
 
 
 <a href="https://www.linkedin.com/in/david-m-mills/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
