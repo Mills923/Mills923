@@ -12,3 +12,6 @@
   <img align="left" alt="Mills Github Stats" src="https://github-readme-stats-alpha-sable-95.vercel.app/api/top-langs?username=Mills923" />
 </details>
 
+
+[![My GitHub Stats]("https://github-readme-stats-alpha-sable-95.vercel.app/api/?username=Mills923&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats]("https://github-readme-stats-alpha-sable-95.vercel.app/api/top-langs/?username=Mills923&langs_count=10&theme=tokyonight)]()
