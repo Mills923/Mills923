@@ -19,4 +19,9 @@
   
 </details>
 
+<details>
+  <summary>:zap: WakaTime Stats</summary>
 
+  <img align="left" alt="Mills WakaTime" src="https://github-readme-stats-git-master-davids-projects-3665cbf8.vercel.app/api/wakatime?username=Mills923" />
+  
+</details>
