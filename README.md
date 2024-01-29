@@ -9,6 +9,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Mills Github Stats" src="https://github-readme-stats-alpha-sable-95.vercel.app/api?username=Mills923&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mills Github Stats" src="https://github-readme-stats-alpha-sable-95.vercel.app/api/top-langs?username=Mills923&show_icons=true&hide_border=true" />
 </details>
 
