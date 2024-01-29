@@ -15,7 +15,7 @@
 <details>
   <summary>:zap: Top Languages</summary>
 
-  <img align="left" alt="Mills Languages" src="https://github-readme-stats-alpha-sable-95.vercel.app/api/top-langs/?username=Mills923&langs_count=10&theme=tokyonight" />
+  
 </details>
 
 
